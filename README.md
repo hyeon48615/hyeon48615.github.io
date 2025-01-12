@@ -9,6 +9,7 @@
 * [Intro](https://hyeon48615.github.io/java-fullstack-10/intro)
 
 ### 웹 개발 기초 (HTML/CSS/Javascript)
+* [06-CSS 기본](https://hyeon48615.github.io/java-fullstack-10/CSS/01-basic)
 * [실습코드](https://github.com/hyeon48615/frontend-basics)
 
 ## ETC
