@@ -11,6 +11,7 @@
 ### 웹 개발 기초 (HTML/CSS/Javascript)
 * [06-CSS 기본](https://hyeon48615.github.io/java-fullstack-10/06-css)
 * [07-텍스트 스타일](https://hyeon48615.github.io/java-fullstack-10/07-text)
+* [08-CSS 박스 모델](https://hyeon48615.github.io/java-fullstack-10/08-box)
 * [실습코드](https://github.com/hyeon48615/frontend-basics)
 
 ## ETC
