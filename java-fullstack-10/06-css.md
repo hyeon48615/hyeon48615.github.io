@@ -63,21 +63,20 @@
 ### 스타일 우선순위
 <style>
     .container {
-        display: grid;
-        grid-template-columns: 2fr 2fr 3fr;
-        gap: 10px;
+        display: flex;
+        justify-content: space-between;
     }
-    .column {
-        padding: 5px;
-    }
-    @media (max-width: 800px) {
+    @media (max-width: 980px) {
         .container {
-            grid-template-columns: 1fr;
+            display: block;
+            width: 100%;
+            height: 100%;
         }
+
     }
 </style>
 <div class="container">
-    <div class="column">
+    <div>
         <b>중요도</b>
         <ol>
             <li>사용자 스타일</li>
@@ -85,7 +84,7 @@
             <li>브라우저 스타일</li>
         </ol>
     </div>
-    <div class="column">
+    <div>
         <b>적용 범위</b>
         <ol>
             <li>!important</li>
@@ -95,7 +94,7 @@
             <li>타입 스타일</li>
         </ol>
     </div>
-    <div class="column">
+    <div>
         <b>소스 순서</b>
         <ul>
             <li>중요도와 적용 범위가 모두 같은 경우</li>
