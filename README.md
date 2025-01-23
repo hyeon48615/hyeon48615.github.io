@@ -10,6 +10,7 @@
 * [2025-01-17](https://hyeon48615.github.io/til/2025-01-17)
 * [2025-01-20](https://hyeon48615.github.io/til/2025-01-20)
 * [2025-01-21](https://hyeon48615.github.io/til/2025-01-21)
+* [2025-01-22](https://hyeon48615.github.io/til/2025-01-22)
 
 ## Java 풀스택 10기
 * [Intro](https://hyeon48615.github.io/java-fullstack-10/intro)
