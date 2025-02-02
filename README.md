@@ -19,6 +19,7 @@
 
 ### 웹 개발 기초 (HTML/CSS/Javascript)
 * [03-HTML 기본](https://hyeon48615.github.io/java-fullstack-10/html-css-javascript/03-HTML)
+* [03-1-글로벌 속성](https://hyeon48615.github.io/java-fullstack-10/html-css-javascript/03-1-global-attr)
 * [04-HTML 입력 태그](https://hyeon48615.github.io/java-fullstack-10/html-css-javascript/04-tag)
 * [05-입력 양식(폼)](https://hyeon48615.github.io/java-fullstack-10/html-css-javascript/05-form)
 * [06-CSS 기본](https://hyeon48615.github.io/java-fullstack-10/html-css-javascript/06-css)
