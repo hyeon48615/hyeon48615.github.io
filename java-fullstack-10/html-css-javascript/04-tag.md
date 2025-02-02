@@ -282,7 +282,15 @@
     <li>기본형 <code>&lt;a href="링크주소"&gt;텍스트 또는 이미지&lt;/a&gt;</code></li>
     <li>href 속성 : 필수 속성</li>
     <li>추가 속성 : id, target</li>
-    <li>target : _blank, _parent, _top, _self, 창이름</li>
+    <li>target : _blank, _parent, _top, _self, 창이름
+        <ul>
+        <li>_blank : 새 창(새 탭)에서 표시</li>
+        <li>_parent : 현재 창의 부모 창에 표시</li>
+        <li>_top : 가장 최상위의 창에 표시</li>
+        <li>_self : 현재 화면에 표시(기본값)</li>
+        <li>창이름 : 명시된 창에 표시</li>
+        </ul>
+    </li>
 </ul>
 
 <style>
