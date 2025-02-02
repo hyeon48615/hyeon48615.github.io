@@ -25,7 +25,7 @@
 * [06-CSS 기본](https://hyeon48615.github.io/java-fullstack-10/html-css-javascript/06-css)
 * [07-텍스트 스타일](https://hyeon48615.github.io/java-fullstack-10/html-css-javascript/07-text)
 * [08-CSS 박스 모델](https://hyeon48615.github.io/java-fullstack-10/html-css-javascript/08-box)
-* [09-1-배경 꾸미기](https://hyeon48615.github.io/java-full-stack-10/html-css-javascript/09-1-background)
+* [09-1-배경 꾸미기](https://hyeon48615.github.io/java-fullstack-10/html-css-javascript/09-1-background)
 * [실습코드](https://github.com/hyeon48615/frontend-basics)
 
 ### 데이터베이스, SQL
