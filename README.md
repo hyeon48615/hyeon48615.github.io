@@ -29,7 +29,8 @@
 * [실습코드](https://github.com/hyeon48615/frontend-basics)
 
 ### 데이터베이스, SQL
-* [ch01. 데이터베이스 기초](https://hyeon48615.github.io/java-fullstack-10/sql/ch01.database)
+* [01. 데이터베이스 기초](https://hyeon48615.github.io/java-fullstack-10/sql/ch01.database)
+* [02. 기본 SQL](https://hyeon48615.github.io/java-fullstack-10/sql/ch02.basic-sql)
 
 ## ETC
 * [TIL 작성법](https://hyeon48615.github.io/etc/til-structure)
