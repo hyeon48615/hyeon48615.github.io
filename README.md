@@ -36,5 +36,6 @@
 
 ### 데이터베이스, SQL
 * [01. 데이터베이스 기초](https://hyeon48615.github.io/java-fullstack-10/sql/01.database)
-* [02. 기본 SQL](https://hyeon48615.github.io/java-fullstack-10/sql/02.basic-sql)
-* [03. 정규화](https://hyeon48615.github.io/java-fullstack-10/sql/03.normalization)
+* [02. 데이터 유형](https://hyeon48615.github.io/java-fullstack-10/sql/02.data-type)
+* [03. 기본 SQL](https://hyeon48615.github.io/java-fullstack-10/sql/03.basic-sql)
+* [04. 정규화](https://hyeon48615.github.io/java-fullstack-10/sql/04.normalization)
