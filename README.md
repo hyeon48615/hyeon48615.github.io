@@ -40,3 +40,4 @@
 * [02. 데이터 유형](https://hyeon48615.github.io/java-fullstack-10/sql/02.data-type)
 * [03. 기본 SQL](https://hyeon48615.github.io/java-fullstack-10/sql/03.basic-sql)
 * [04. 정규화](https://hyeon48615.github.io/java-fullstack-10/sql/04.normalization)
+* [05. 내장함수](https://hyeon48615.github.io/java-fullstack-10/sql/05.built-in-function)
