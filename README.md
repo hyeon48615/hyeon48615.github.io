@@ -49,3 +49,4 @@
 * [09. CTE, 뷰, 임시테이블](https://hyeon48615.github.io/java-fullstack-10/sql/09.virtual-table)
 * [10. 변수](https://hyeon48615.github.io/java-fullstack-10/sql/10.variable)
 * [11. SQL 프로그래밍](https://hyeon48615.github.io/java-fullstack-10/sql/11.sql-programming)
+* [12. 핸들러](https://hyeon48615.github.io/java-fullstack-10/sql/12.handler)
