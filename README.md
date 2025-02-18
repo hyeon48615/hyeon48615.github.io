@@ -21,7 +21,7 @@
 * [2025-02-12](https://hyeon48615.github.io/til/2025-02-12)
 * [2025-02-13](https://hyeon48615.github.io/til/2025-02-13)
 * [2025-02-14](https://hyeon48615.github.io/til/2025-02-14)
-* [2025-02-14](https://hyeon48615.github.io/til/2025-02-17)
+* [2025-02-17](https://hyeon48615.github.io/til/2025-02-17)
 
 ## Java 풀스택 10기
 * [Intro](https://hyeon48615.github.io/java-fullstack-10/intro)
@@ -43,3 +43,8 @@
 * [03. 기본 SQL](https://hyeon48615.github.io/java-fullstack-10/sql/03.basic-sql)
 * [04. 정규화](https://hyeon48615.github.io/java-fullstack-10/sql/04.normalization)
 * [05. 내장함수](https://hyeon48615.github.io/java-fullstack-10/sql/05.built-in-function)
+* [06. 조인과 서브쿼리](https://hyeon48615.github.io/java-fullstack-10/sql/06.join&subquery)
+* [07. 윈도우 함수(집계함수, 순위함수)](https://hyeon48615.github.io/java-fullstack-10/sql/07.window-function)
+* [08. 테이블 구조 변경 - ALTER 문](https://hyeon48615.github.io/java-fullstack-10/sql/08.alter)
+* [09. CTE, 뷰, 임시테이블](https://hyeon48615.github.io/java-fullstack-10/sql/09.virtual-table)
+* [10. 변수](https://hyeon48615.github.io/java-fullstack-10/sql/10.variable)
